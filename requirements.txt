@@ -6,7 +6,7 @@ exceptiongroup==1.1.1
 h11==0.14.0
 idna==3.4
 outcome==1.2.0
-pip==22.2.2
+pip==23.3
 PySocks==1.7.1
 requests==2.31.0
 selenium==4.8.2
